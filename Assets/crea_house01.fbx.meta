@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: f4e935ad14e3aa6458af428f73d7e553
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 20200
   internalIDToNameTable: []
   externalObjects:
   - first:
@@ -23,7 +23,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: C
-    second: {fileID: 2100000, guid: 011f8915340302647b21d4307360ab3c, type: 2}
+    second: {fileID: 2100000, guid: b110d76f9f420c5408231b527fcfb3f5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -39,11 +39,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: E_glass
     second: {fileID: 2100000, guid: d33c0e0aca3e67245a0b6d97f0a5010f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: 94ce11fd85e10ed458f6125e3157d145, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -80,7 +75,7 @@ ModelImporter:
       name: white
     second: {fileID: 2100000, guid: 5f1bf26a74a1efb49995b9cde8633dfd, type: 2}
   materials:
-    materialImportMode: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -89,7 +84,6 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 1
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -119,7 +113,6 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -131,7 +124,6 @@ ModelImporter:
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
-    optimizeBones: 1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
